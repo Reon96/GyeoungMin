@@ -62,14 +62,14 @@
 > 각 프로젝트는 폴더별로 세부 코드와 설명을 담고 있습니다.  
 > 아래 항목들은 순차적으로 정리 및 업로드 예정입니다.
 
-- [ ] 두두아이티 백엔드 시스템
-- [ ] 가상 피팅 GAN 모델
-- [ ] 손 제스처 인식 시스템
-- [ ] 음악 추천 시스템
-- [ ] 웹툰 분류기
-- [ ] Unity RC카 시뮬레이터
-- [ ] STM32 제어 프로젝트
-- [ ] 스마트 사육장 시스템
+- 두두아이티 백엔드 시스템
+- [ ] [가상 피팅 GAN 모델](https://github.com/Reon96/seeot)
+- [ ] [손 제스처 인식 제어](https://github.com/david1597-embedded/aumo_reco_project)
+- [ ] [음악 추천 시스템](https://github.com/Reon96/RecommendNCS)
+- [ ] [웹툰 분류기](https://github.com/Reon96/webtoon_project)
+- [ ] [Unity RC카 시뮬레이터]
+- [ ] [STM32 제어 프로젝트]
+- [ ] [스마트 사육장 시스템]
 
 ---
 
