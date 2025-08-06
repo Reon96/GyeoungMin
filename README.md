@@ -82,5 +82,5 @@ R, Python, CNN·RNN 기반 모델 학습 및 Linux 환경에서의 개발. Node.
 
 ## 📫 연락처
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: rlarudals_96@naver.com  
 - 🐙 GitHub: [https://github.com/reon96](https://github.com/reon96)
