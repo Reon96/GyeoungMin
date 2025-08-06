@@ -63,8 +63,8 @@ R, Python, CNN·RNN 기반 모델 학습 및 Linux 환경에서의 개발. Node.
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
 | 두두아이티 백엔드 시스템 | 서버 및 PDF 자동화 시스템 개발 | `Python`, `Flask`, `PDF`, `UI` |
-| [가상 피팅 GAN 모델](https://github.com/Reon96/seeot) | 휴먼 파싱·포즈 기반 의류 교체 시스템 | `Python`, `GAN`, `Pose`, `OpenCV` |
 | [손 제스처 인식 제어](https://github.com/david1597-embedded/aumo_reco_project) | 손 모양 인식 후 기계 제어 | `YOLO`, `ResNet50`, `OpenVINO`, `Python` |
+| [가상 피팅 GAN 모델](https://github.com/Reon96/seeot) | 휴먼 파싱·포즈 기반 의류 교체 시스템 | `Python`, `GAN`, `Pose`, `OpenCV` |
 | [음악 추천 플레이어](https://github.com/Reon96/RecommendNCS) | TF-IDF, Word2Vec 기반 음악 추천 | `Python`, `TF-IDF`, `Word2Vec` |
 | [웹툰 장르 분류기](https://github.com/Reon96/webtoon_project) | 제목·줄거리 기반 자동 장르 분류 | `Python`, `NLP`, `LSTM` |
 | [RC카 자율주행 시뮬레이터] | Unity + ML-Agent 기반 RC카 시뮬레이션 | `C#`, `Unity3D`, `ML-Agent` |
