@@ -70,7 +70,7 @@ R, Python, CNN·RNN 기반 모델 학습 및 Linux 환경에서의 개발. Node.
 | [가상 피팅 GAN 모델](https://github.com/Reon96/seeot) | 휴먼 파싱·포즈 기반 의류 교체 시스템 | `Python`, `GAN`, `Pose`, `OpenCV` |
 | [음악 추천 플레이어](https://github.com/Reon96/RecommendNCS) | TF-IDF, Word2Vec 기반 음악 추천 | `Python`, `TF-IDF`, `Word2Vec` |
 | [웹툰 장르 분류기](https://github.com/Reon96/webtoon_project) | 제목·줄거리 기반 자동 장르 분류 | `Python`, `NLP`, `LSTM` |
-| [RC카 자율주행 시스템 구현] | 초음파센서 기반 자율주행 RC카 구현 | `C`, `STM32`, `C#`, `Unity3D`, `ML-Agent` |
+| [RC카 자율주행 시스템 구현](https://github.com/Reon96/RCCar) | 초음파센서 기반 자율주행 RC카 구현 | `C`, `STM32`, `C#`, `Unity3D`, `ML-Agent` |
 | [스마트 사육장 시스템] | Raspberry Pi 기반 환경·기기 제어 | `Python`, `SQL`, `Raspberry Pi` |
 | [STM32 제어 시스템] | 엘리베이터 제어 시스템 구현 | `C`, `STM32`, `CubeIDE` |
 
