@@ -77,7 +77,7 @@ R, Python, CNN·RNN 기반 모델 학습 및 Linux 환경에서의 개발. Node.
 ---
 
 ## 📌 프로젝트 상세
-> [포트폴리오](https://github.com/Reon96/GyeoungMin/blob/main/portfolio.pdf)
+> [포트폴리오](https://github.com/Reon96/GyeoungMin/blob/main/portfolio.pdf)에서 볼 수 있으며, 
 > 각 프로젝트는 개별 레포지토리에 정리 중에 있습니다.  
 > 현재 문서는 메인 포트폴리오이며, 세부 내용은 각 링크를 통해 확인해주세요.
 
